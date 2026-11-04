@@ -30,4 +30,4 @@ A C++ based expense management system that helps users record daily expenses, ma
 3. Compile and run the program.
 
 ## Author
-BCA 1st Semester Student
+SHAAN ALI
